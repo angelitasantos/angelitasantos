@@ -23,8 +23,8 @@ Um pouquinho sobre mim:
 
 <div align="center">
   <a href="https://github.com/https://github.com/angelitasantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelitasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelitasantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelitaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelitaSantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
