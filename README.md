@@ -4,7 +4,7 @@ Um pouquinho sobre mim:
 <img align="right" alt="Angel-pic" height="150" style="border-radius:50px;" src="angel.png">
 
 - 🔭 Trabalho na área de custos e finanças em uma empresa de treinamento empresarial para pequenos negócios.
-- 🌱 Estudo JavaScript, React, PostgreSQL, Python.
+- 🌱 Estudo JavaScript, PostgreSQL, MySQL, Python, Django.
 - 🤔 Procuro ajuda com Backend.
 - 💬 Gosto de aprender, de ler, de escrever, de ouvir músicas e histórias, de viajar, de fotografar, de assistir os mais variados esportes, de jogar board games.
 - 😄 Pronomes: Ela / Dela / She / Her
