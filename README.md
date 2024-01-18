@@ -4,7 +4,7 @@ Um pouquinho sobre mim:
 <img align="right" alt="Angel-pic" height="150" style="border-radius:50px;" src="angel.png">
 
 - 🔭 Trabalho na área de custos e finanças em uma empresa de treinamento empresarial para pequenos negócios.
-- 🌱 Estudo JavaScript, PostgreSQL, MySQL, Python, Django.
+- 🌱 Estudo JavaScript, Banco de Dados, Python, Django.
 - 🤔 Procuro ajuda com Backend.
 - 💬 Gosto de aprender, de ler, de escrever, de ouvir músicas e histórias, de viajar, de fotografar, de assistir os mais variados esportes, de jogar board games.
 - 😄 Pronomes: Ela / Dela / She / Her
@@ -29,10 +29,9 @@ Um pouquinho sobre mim:
 
 <div align="center">
   <img align="center" alt="Angel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Angel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angel-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Angel-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Angel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
