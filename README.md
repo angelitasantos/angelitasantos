@@ -3,10 +3,10 @@
 Um pouquinho sobre mim:
 <img align="right" alt="Angel-pic" height="150" style="border-radius:50px;" src="angel.png">
 
-- 🔭 Trabalho na área de custos e finanças em uma empresa de treinamento empresarial para pequenos negócios.
+- 🔭 Trabalho na área de custos e finanças.
 - 🌱 Estudo JavaScript, Banco de Dados, Python, Django.
 - 🤔 Procuro ajuda com Backend.
-- 💬 Gosto de aprender, de ler, de escrever, de ouvir músicas e histórias, de viajar, de fotografar, de assistir os mais variados esportes, de jogar board games.
+- 💬 Gosto de ler e escrever histórias, de ouvir músicas, de viajar, de fotografar, de assistir os mais variados esportes, de jogar board games.
 - 😄 Pronomes: Ela / Dela / She / Her
 - ⚡ Fato engraçado sobre mim: Sempre chove quando eu viajo. ☔
 - 📫 Como me encontrar:
